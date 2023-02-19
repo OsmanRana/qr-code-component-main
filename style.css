@@ -14,7 +14,7 @@
       justify-content: center;
     }
 
-    .container {
+    main {
       max-width: 325px;
       width: 100%;
       height: 500px;
@@ -39,8 +39,9 @@
       color: hsl(220, 15%, 55%);
     }
     
-    .content h2 {
+    .content h1 {
       font-weight: 700;
+      font-size: 1.5em;;
       color: hsl(218, 44%, 22%);
       margin-bottom: 20px;
     }
